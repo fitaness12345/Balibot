@@ -20,9 +20,7 @@ This is a completely garbage discord bot made with python.
 
 
 
-  <p align="center">
-	<img src="https://raw.githubusercontent.com/fitaness12345/Balibot/main/img/balibot.JPG">
-  </p>
+
   
   <p align="center">
 	<img src="https://raw.githubusercontent.com/fitaness12345/Balibot/main/img/balibot2.JPG">
